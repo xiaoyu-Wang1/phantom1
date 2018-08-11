@@ -1,0 +1,8 @@
+2018-08-11 10:54:38,938 INFO (StartupInfoLogger.java:50)- Starting Phantom1Application on xiaoyuPC with PID 7299 (/home/xiaoyu/ideaWorkSpace/phantom1/target/classes started by xiaoyu in /home/xiaoyu/ideaWorkSpace/phantom1)
+2018-08-11 10:54:38,941 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-08-11 10:54:38,942 INFO (SpringApplication.java:666)- The following profiles are active: dev
+2018-08-11 10:54:40,665 INFO (StartupInfoLogger.java:59)- Started Phantom1Application in 2.01 seconds (JVM running for 2.324)
+2018-08-11 10:54:40,666 INFO (Phantom1Application.java:15)- 日志輸出測試
+2018-08-11 10:55:22,412 INFO (StartupInfoLogger.java:50)- Starting Phantom1Application on xiaoyuPC with PID 7620 (/home/xiaoyu/ideaWorkSpace/phantom1/target/classes started by xiaoyu in /home/xiaoyu/ideaWorkSpace/phantom1)
+2018-08-11 10:55:22,415 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-08-11 10:55:22,416 INFO (SpringApplication.java:666)- The following profiles are active: dev

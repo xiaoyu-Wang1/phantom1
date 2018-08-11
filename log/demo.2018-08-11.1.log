@@ -1,0 +1,12 @@
+2018-08-11 10:55:24,156 INFO (StartupInfoLogger.java:59)- Started Phantom1Application in 2.04 seconds (JVM running for 2.377)
+2018-08-11 10:55:24,159 INFO (Phantom1Application.java:15)- 日志輸出測試
+2018-08-11 10:55:32,388 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT count(0) FROM t_user 
+2018-08-11 10:55:32,406 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-08-11 10:55:32,445 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2018-08-11 10:55:32,447 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT userId,userName,password,phone FROM t_user LIMIT ? 
+2018-08-11 10:55:32,448 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 10(Integer)
+2018-08-11 10:55:32,455 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 2
+2018-08-11 10:57:22,975 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT count(0) FROM t_user 
+2018-08-11 10:57:22,976 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-08-11 10:57:22,977 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2018-08-11 10:57:22,977 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT userId,userName,password,phone FROM t_user LIMIT ? 

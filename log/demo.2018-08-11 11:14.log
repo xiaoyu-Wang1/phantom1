@@ -1,0 +1,19 @@
+2018-08-11 11:12:33,003 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 10(Integer)
+2018-08-11 11:12:33,006 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 2
+2018-08-11 11:14:26,686 INFO (StartupInfoLogger.java:50)- Starting Phantom1Application on xiaoyuPC with PID 10739 (/home/xiaoyu/ideaWorkSpace/phantom1/target/classes started by xiaoyu in /home/xiaoyu/ideaWorkSpace/phantom1)
+2018-08-11 11:14:26,688 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+2018-08-11 11:14:26,689 INFO (SpringApplication.java:666)- The following profiles are active: dev
+2018-08-11 11:14:28,431 INFO (StartupInfoLogger.java:59)- Started Phantom1Application in 2.025 seconds (JVM running for 2.363)
+2018-08-11 11:14:28,433 INFO (Phantom1Application.java:15)- 日志輸出測試
+2018-08-11 11:14:34,736 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT count(0) FROM t_user 
+2018-08-11 11:14:34,748 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-08-11 11:14:34,758 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2018-08-11 11:14:34,760 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT userId,userName,password,phone FROM t_user LIMIT ? 
+2018-08-11 11:14:34,761 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 10(Integer)
+2018-08-11 11:14:34,762 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 2
+2018-08-11 11:14:35,848 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT count(0) FROM t_user 
+2018-08-11 11:14:35,849 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
+2018-08-11 11:14:35,850 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
+2018-08-11 11:14:35,852 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT userId,userName,password,phone FROM t_user LIMIT ? 
+2018-08-11 11:14:35,852 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 10(Integer)
+2018-08-11 11:14:35,855 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 2
