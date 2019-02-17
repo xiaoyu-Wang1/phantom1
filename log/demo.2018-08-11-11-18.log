@@ -1,6 +1,0 @@
-2018-08-11 11:18:33,195 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT count(0) FROM t_user 
-2018-08-11 11:18:33,199 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 
-2018-08-11 11:18:33,201 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 1
-2018-08-11 11:18:33,203 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: SELECT userId,userName,password,phone FROM t_user LIMIT ? 
-2018-08-11 11:18:33,204 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: 10(Integer)
-2018-08-11 11:18:33,206 DEBUG (BaseJdbcLogger.java:159)- <==      Total: 2
